@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nkj31
+- 👋 Hi, I’m <b> Nitish Jaganwar MCA II year Student<b>
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Android App Devlopment 
 - 💞️ I’m looking to collaborate on  Android App
